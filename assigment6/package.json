@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "jsdom": "^25.0.0",
+    "json-server": "^1.0.0-beta.2",
+    "node-fetch": "^3.3.2"
+  },
+  "name": "assigment6",
+  "version": "1.0.0",
+  "main": "exercise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
